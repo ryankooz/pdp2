@@ -7,6 +7,10 @@ await cp('shopify','dist/shopify',{recursive:true});
 await mkdir('dist/shopify/assets',{recursive:true});
 await cp('public/assets','dist/shopify/assets',{recursive:true});
 await cp('public/veltia.js','dist/shopify/assets/veltia.js');
+await cp('public/product.js','dist/shopify/assets/product.js');
+await cp('public/product-extras.js','dist/shopify/assets/product-extras.js');
+const productCss=(await readFile('public/product.css','utf8')).replaceAll('/assets/','');
+await writeFile('dist/shopify/assets/product.css',productCss);
 const css=(await readFile('public/veltia.css','utf8')).replaceAll("url('/assets/material-symbols-rounded.woff2')", "url('material-symbols-rounded.woff2')");
 await writeFile('dist/shopify/assets/veltia.css',css);
 execFileSync('python',['-c',`import pathlib, zipfile

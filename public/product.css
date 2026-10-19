@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/poppins-pdp-600.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/assets/poppins-pdp-800.ttf) format('truetype');
+}
+.pdp-offers{border:0;margin:12px 0 0;padding:0;display:grid;gap:8px;min-width:0}
+.pdp-product-title{font-family:var(--font-body--family);font-size:20px;font-weight:600;line-height:1.3;margin:0}
+.text-block.h5>.pdp-product-title{font-weight:700}
+.pdp-offer{position:relative;min-width:0}
+.pdp-offer-input{position:absolute;opacity:0;width:1px;height:1px}
+.pdp-offer-card{position:relative;display:block;border:1px solid rgba(45,39,33,.3);border-radius:10px;background:#f5f2ef;cursor:pointer;overflow:visible}
+.pdp-offer-input:checked+.pdp-offer-card{border:2px solid #2d2721;background:white}
+.pdp-offer-input:focus-visible+.pdp-offer-card{outline:2px solid #2d2721;outline-offset:4px}
+.pdp-offer-input:disabled+.pdp-offer-card{opacity:.5;cursor:not-allowed}
+.pdp-offer-badge{position:absolute;top:-9px;right:16px;background:#6b4423;color:white;border-radius:3px;padding:4px 8px;font-size:12px;line-height:16px;font-weight:500}
+.pdp-offer-main{min-height:79px;display:flex;gap:10px;align-items:center;padding:18px 14px}
+.pdp-offer-image{display:block;flex:0 0 55px}
+.pdp-offer-copy{display:flex;flex-direction:column;flex:1;min-width:0}
+.pdp-offer-copy strong,.pdp-offer-pricing strong{font-size:19px;line-height:1.25;font-weight:700}
+.pdp-offer-copy small{font-size:11px;color:#555;line-height:1.4;margin-top:3px}
+.pdp-offer-pricing{display:flex;flex-direction:column;align-items:flex-end;flex-shrink:0}
+.pdp-offer-pricing s{font-size:11px;color:#555;line-height:1.5}
+.pdp-offer-gift{display:flex;align-items:center;gap:10px;min-height:44px;padding:7px 10px;background:#d0ccc8;font-size:12px;font-weight:700;line-height:1.3;border-top:1px solid #f5f2ef}
+.pdp-offer-gift:last-child{border-radius:0 0 8px 8px}
+.pdp-offer-gift>span{width:26px;text-align:center;flex-shrink:0;font-size:20px}
+.pdp-offer-gift img{width:25px;height:30px;object-fit:contain;flex-shrink:0}
+.pdp-offer-input:checked+.pdp-offer-card .pdp-offer-gift{background:#2d2721;color:#ececec}
+.pdp-purchase-status:empty{display:none}.pdp-purchase-status{font-size:13px}
+.pdp-purchase-status[role=alert]{color:#a82828}
+.product-media-gallery--grid .splide:not(.is-initialized){visibility:visible}
+.pdp-variant-select{width:100%;padding:12px;font:inherit;border:1px solid #b6ada4;border-radius:6px}
+.pdp-variant-label{font-size:13px;font-weight:500}
+.pdp-cart-remove{border:0;background:none;color:inherit;text-decoration:underline;font:inherit;cursor:pointer}
+.product-media-gallery__thumbnails .splide__slide:focus-visible{outline:2px solid #2d2721;outline-offset:-3px}
+@media(min-width:751px){.product-media-gallery--grid .product-media-gallery-main-slider>.splide__arrows{display:none}}
+@media(max-width:750px){.pdp-offer-main{padding:18px 12px}.pdp-offer-image{flex-basis:35px}.pdp-offer-badge{font-size:10px;right:12px}.pdp-offer-copy strong,.pdp-offer-pricing strong{font-size:17px}.pdp-offer-copy small{font-size:10px}}
+.pdp-offers legend.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(min-width:751px){.product-media-gallery--grid .product-media-gallery-main-slider .splide__list{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));transform:none!important;gap:10px}.product-media-gallery--grid .product-media-gallery-main-slider .splide__slide{width:auto!important}}
+deferred-media>video{display:block;width:100%;height:100%;object-fit:contain}

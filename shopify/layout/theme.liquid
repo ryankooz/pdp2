@@ -895,10 +895,16 @@
   </style>
 <link href="{{ 'veltia-favicon.svg' | asset_url }}" rel="icon" type="image/svg+xml"/><link href="{{ 'veltia.css' | asset_url }}" rel="stylesheet"/><link rel="canonical" href="{{ canonical_url }}">
 {{ content_for_header }}
+{% if request.page_type == 'product' %}<link rel="stylesheet" href="{{ 'product.css' | asset_url }}">{% endif %}
 </head>
 <body>
 {% render 'veltia-header' %}
 <main id="MainContent">{{ content_for_layout }}</main>
 {% render 'veltia-footer' %}
 <script src="{{ 'veltia.js' | asset_url }}" defer></script>
+{% if request.page_type == 'product' %}
+<script src="{{ 'splide-v4.1.2.js' | asset_url }}" defer></script>
+<script src="{{ 'product-extras.js' | asset_url }}" defer></script>
+<script src="{{ 'product.js' | asset_url }}" defer></script>
+{% endif %}
 </body></html>

@@ -1,0 +1,30 @@
+[
+  {
+    "width": 390,
+    "sections": 19,
+    "offers": 3,
+    "checks": "gallery, program selection, add/remove preview cart, FAQ, reviews, ebook contents, anchor targets, images, overflow, and JS errors passed",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "width": 768,
+    "sections": 19,
+    "offers": 3,
+    "checks": "gallery, program selection, add/remove preview cart, FAQ, reviews, ebook contents, anchor targets, images, overflow, and JS errors passed",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "width": 1440,
+    "sections": 19,
+    "offers": 3,
+    "checks": "gallery, program selection, add/remove preview cart, FAQ, reviews, ebook contents, anchor targets, images, overflow, and JS errors passed",
+    "errors": [],
+    "failedRequests": []
+  },
+  {
+    "workflow": "Shopify Liquid fixture",
+    "checks": "actual catalog IDs, prices, variant switching, unavailable unconfigured bundles, and native cart POST passed; no live Shopify checkout performed"
+  }
+]

@@ -61,3 +61,32 @@ document.querySelectorAll('marquee-component').forEach(marquee=>{
  const copy=content.cloneNode(true);copy.setAttribute('aria-hidden','true');copy.querySelectorAll('[id]').forEach(x=>x.removeAttribute('id'));content.parentElement.append(copy);
  marquee.style.setProperty('--marquee-speed',`${Math.max(25,content.scrollWidth/Number(marquee.dataset.speedFactor||20))}s`);
 });
+
+// Local preview cart persists between the recreated homepage and product page.
+function renderPreviewCart() {
+  if (!drawer || !document.querySelector('[data-preview="true"]') && !sessionStorage.getItem('veltia-preview-cart')) return;
+  let items;
+  try { items=JSON.parse(sessionStorage.getItem('veltia-preview-cart')||'[]'); } catch { items=[]; }
+  const count=items.reduce((sum,item)=>sum+item.quantity,0);
+  drawer.classList.toggle('cart-drawer--empty',count===0);
+  document.querySelectorAll('[data-ref="cart-count"]').forEach(el=>el.textContent=String(count));
+  drawer.querySelector('.cart-drawer__header_title p').textContent=`Cart (${count})`;
+  const container=drawer.querySelector('.cart-drawer__items');container.replaceChildren();
+  const money=new Intl.NumberFormat('en-US',{style:'currency',currency:'USD'});
+  for (const item of items) {
+    const row=document.createElement('div');row.className='veltia-cart-item';
+    const image=document.createElement('img');image.src='/assets/veltia-product.png';image.alt='Veltia Labs Collagen Cushion Support';
+    const copy=document.createElement('div');
+    const title=document.createElement('p');title.textContent='Veltia Labs Collagen Cushion Support';
+    const detail=document.createElement('p');detail.textContent=`${item.bottles} bottle${item.bottles===1?'':'s'} · ${item.quantity} × ${money.format(item.price/100)}`;
+    const remove=document.createElement('button');remove.type='button';remove.className='pdp-cart-remove';remove.textContent='Remove';
+    remove.addEventListener('click',()=>{sessionStorage.setItem('veltia-preview-cart',JSON.stringify(items.filter(other=>other.program!==item.program)));renderPreviewCart();});
+    copy.append(title,detail,remove);row.append(image,copy);container.append(row);
+  }
+  const total=items.reduce((sum,item)=>sum+item.price*item.quantity,0);
+  drawer.querySelector('[data-ref="price"]').textContent=money.format(total/100);
+  const checkout=drawer.querySelector('[data-ref="checkout-button"]');
+  checkout.disabled=true;checkout.title='Checkout is available in the Shopify store.';
+}
+document.addEventListener('veltia:cart-updated',renderPreviewCart);
+renderPreviewCart();
