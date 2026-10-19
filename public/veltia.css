@@ -1,0 +1,8 @@
+/* Local icon font preserves the source storefront's icon style without a third-party request. */
+@font-face{font-family:'Material Symbols Rounded';font-style:normal;font-weight:100 700;font-display:block;src:url('/assets/material-symbols-rounded.woff2') format('woff2')}
+.material-symbols-rounded{font-family:'Material Symbols Rounded';font-weight:normal;font-style:normal;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;font-feature-settings:'liga';-webkit-font-smoothing:antialiased}
+header-component{display:block}
+.header__icon{border:0;background:transparent;font:inherit;cursor:pointer}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid currentColor;outline-offset:5px}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important}}
+.veltia-product{display:grid;grid-template-columns:1fr 1fr;gap:48px;padding-top:60px;padding-bottom:60px}.veltia-product-image{width:100%;height:auto}.veltia-product h1{margin:12px 0 24px}.veltia-product form{display:grid;gap:14px;margin-top:24px}.veltia-product select,.veltia-product input{padding:12px;font:inherit;border:1px solid #a69c92;border-radius:6px}.veltia-document{max-width:900px;padding-top:60px;padding-bottom:60px;min-height:50vh}.veltia-document h1{margin-bottom:28px}.veltia-cart-item{display:flex;gap:20px;padding:20px 0;border-bottom:1px solid #ddd}.veltia-cart-item img{width:80px;height:100px;object-fit:contain}.veltia-cart-item input{max-width:80px;margin:10px}.veltia-cart-item p{margin:8px 0}@media(max-width:750px){.veltia-product{grid-template-columns:1fr;gap:24px;padding-top:30px}}

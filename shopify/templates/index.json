@@ -1,0 +1,10 @@
+{
+  "sections": {
+    "main": {
+      "type": "veltia-home"
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

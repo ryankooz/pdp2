@@ -1,0 +1,9 @@
+<section class="veltia-document page-width">
+<h1>Your cart</h1>
+{% if cart.item_count > 0 %}
+<form action="{{ routes.cart_url }}" method="post">
+{% for item in cart.items %}<div class="veltia-cart-item">{% if item.image %}{{ item.image | image_url: width: 160 | image_tag: width: 80 }}{% endif %}<div><a href="{{ item.url }}">{{ item.product.title | escape }}</a><p>{{ item.final_line_price | money }}</p><label for="quantity-{{ item.key }}">Quantity</label><input id="quantity-{{ item.key }}" type="number" name="updates[]" value="{{ item.quantity }}" min="0"><a href="{{ item.url_to_remove }}">Remove</a></div></div>{% endfor %}
+<p>Total: {{ cart.total_price | money }}</p><button class="button button--secondary" name="update" type="submit">Update cart</button><button class="button" name="checkout" type="submit">Checkout</button>
+</form>
+{% else %}<p>Your cart is empty.</p><a class="button" href="{{ routes.root_url }}">Continue shopping</a>{% endif %}
+</section>
