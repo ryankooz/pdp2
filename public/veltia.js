@@ -75,7 +75,7 @@ function renderPreviewCart() {
   const money=new Intl.NumberFormat('en-US',{style:'currency',currency:'USD'});
   for (const item of items) {
     const row=document.createElement('div');row.className='veltia-cart-item';
-    const image=document.createElement('img');image.src='/assets/veltia-product.png';image.alt='Veltia Labs Collagen Cushion Support';
+    const image=document.createElement('img');image.src='/assets/veltia-product.webp';image.alt='Veltia Labs Collagen Cushion Support';
     const copy=document.createElement('div');
     const title=document.createElement('p');title.textContent='Veltia Labs Collagen Cushion Support';
     const detail=document.createElement('p');detail.textContent=`${item.bottles} bottle${item.bottles===1?'':'s'} · ${item.quantity} × ${money.format(item.price/100)}`;

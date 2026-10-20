@@ -1,0 +1,855 @@
+{
+  "variations": 49,
+  "replaced_source_assets": 51,
+  "retained_identity_and_ui_marks": [
+    "pdp-10.png",
+    "pdp-13.webp",
+    "pdp-15.png",
+    "pdp-16.png",
+    "pdp-17.png",
+    "pdp-18.png",
+    "pdp-19.png",
+    "pdp-34.png",
+    "veltia-logo-light.svg",
+    "veltia-logo.svg"
+  ],
+  "shared_responsive_artwork": {
+    "pdp-46.jpg": "pdp-45.jpg",
+    "pdp-43.png": "pdp-42.png"
+  },
+  "images": [
+    {
+      "original": "1ff128cb06-fond.png",
+      "refreshed": "veltia-workshop.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        2048,
+        2048
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "3927966702a476e5d85544496ff7beb1ed74c805c7c691194fd60f5ec7622097",
+      "refreshed_sha256": "8a64323ce5260b8017f8c949991d10ad77fe1a2a21837acf2d851d00b8e0cf97",
+      "bytes": 571224,
+      "brief": "Warm, quiet botanical workshop/cottage in early morning light: subtly change the angle, surrounding wildflowers and window details. Retain calm natural atmosphere and the left-hand space for overlaid webpage copy. Keep the house and garden concept."
+    },
+    {
+      "original": "59aade7963-goingg_easy_58899c82-cfdb-4899-9626-87acdea84473.png",
+      "refreshed": "veltia-anatomy.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        2048,
+        2048
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "416f8d003f9c1491629eb76e5147d15301eaeb2c12aa6d760023dd97a5ffb456",
+      "refreshed_sha256": "63599d6257581652ffd71a5ef60a0695007a65a0182a78e5380dd59b9fbf3d0a",
+      "bytes": 178578,
+      "brief": "A calm medical cutaway illustration of a rectal cushion with a directional flow arrow: redraw the tissue textures with a slightly different viewing angle, muted warm color shading and droplet placement. Preserve the same anatomical relationships, cushion and arrow direction. No extra symptoms or clinical claims."
+    },
+    {
+      "original": "veltia-product.png",
+      "refreshed": "veltia-product.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c84b344e0f7ee08e3612cb421e02050e4c9ddaa8c98d1b11dbbd01e862ecfd31",
+      "refreshed_sha256": "aac0453424cc009c9d40641fe3136e4e294048f12a562891ba77899d1dea77d9",
+      "bytes": 372996,
+      "brief": "Hero product cutout: retain amber Veltia Labs bottle and cream circular backdrop; subtly rearrange the botanical leaves and small purple flowers, change studio light direction and bottle angle slightly. Same product, refreshed botanical arrangement."
+    },
+    {
+      "original": "pdp-01.png",
+      "refreshed": "pdp-01.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6685590952c98b834969ec15bd30f01f6195c22b054de78466e73213fce43322",
+      "refreshed_sha256": "4cd9dfb213c70848f33359933e084ac2924180969436bc22eea33d2431a06cda",
+      "bytes": 1333610,
+      "brief": "Primary product image with bottle and three benefit tiles: keep the same layout and exact benefit wording; slightly shift the cacao pods/beans, bottle light and warm brown tile textures. Keep Veltia Labs labeling and all printed product details exact."
+    },
+    {
+      "original": "veltia-lifestyle.png",
+      "refreshed": "veltia-lifestyle.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "f16db15680c38e5807770ad9721bebfc27b3773b2737661dc31547ff0bc7da79",
+      "refreshed_sha256": "d20aa5f433cae7173b3bb9fbc856ac52c3fac687bfd34a07994e2f1bef5ac622",
+      "bytes": 346036,
+      "brief": "Existing woman with the product: preserve exactly her identity, age, facial features, expression and bottle. Subtly refresh lighting, background foliage and crop without retouching health, body or apparent results."
+    },
+    {
+      "original": "pdp-02.png",
+      "refreshed": "pdp-02.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2141637a0bd38740abfa3bf0f44c1113ead9df2811f6d583897904c96c3b8c11",
+      "refreshed_sha256": "f0fc1330b814381a266afbae06b40486bba03af2046ce6ff37e79e0991764e43",
+      "bytes": 1451350,
+      "brief": "Product benefit graphic with existing woman: preserve her identity and product, all existing copy and icons, but subtly refresh background light, cream knit texture, spacing and neutral accent colors. Do not change the person or apparent results."
+    },
+    {
+      "original": "veltia-comparison-mobile.png",
+      "refreshed": "veltia-comparison-mobile.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "cfa7f79f46030029cc71ee43e4a172cb04fbe333d3b124a9b94545554656e3df",
+      "refreshed_sha256": "c80d9af0b288c1f102abd1c762e24ebb70383f71676e38a71f622eb6dcebebba",
+      "bytes": 1342966,
+      "brief": "The symptom-cycle comparison graphic: preserve the left crossed-out cycle of creams/wipes/cushions and the right Veltia Labs bottle, with the same wording and conclusion. Refresh the illustrations, spacing, pedestal and warm beige background slightly."
+    },
+    {
+      "original": "pdp-03.png",
+      "refreshed": "pdp-03.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "98f4ed9f84f98f7008a50173e8b2d4ec9d9f2ca8c477046993a1f7d1d7929cea",
+      "refreshed_sha256": "a8422092abfe986e97a3bee7d632fed73b76106385ceacbdfe464e0e4ca9cb10",
+      "bytes": 1440728,
+      "brief": "Survey graphic: retain exactly 150 days, 412 customers, 82%, 77%, 71%, all wording and the individual-results disclaimer. Refresh the circular chart styling, cacao arrangement, bottle angle and cream background slightly. No new evidence or statistics."
+    },
+    {
+      "original": "pdp-05.png",
+      "refreshed": "pdp-05.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c83a6e23c4a7079ed52956876d75298f3ceede3631b34b52f9cac7d3b872f8ef",
+      "refreshed_sha256": "e9e7d350198314360365743b89752c58599a331ff62250e6b9650cd5821ef4e9",
+      "bytes": 1417006,
+      "brief": "Existing two-customer testimonial collage: preserve both people and identities, names, ages, ratings and every quoted word exactly. Refresh only the surrounding card borders, cream background, crop and spacing slightly. Keep all Veltia Labs labels readable; no invented testimonial text."
+    },
+    {
+      "original": "pdp-04.png",
+      "refreshed": "pdp-04.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "ef706579d26a70cc16aa41418ae21882dd791a1bb7181fec7a2058b2868029b4",
+      "refreshed_sha256": "5a505c6d2a26d5007f0c9c38efdf7fa63080cc3652c7f2e52d0b141b594cd778",
+      "bytes": 1444614,
+      "brief": "Collagen comparison infographic: same two-panel healthy/collapsed rectal cushion explanation and all original labels and age numbers. Slightly change the scientific illustration angle, border treatment and warm cream/tan palette. Do not change any anatomy or findings."
+    },
+    {
+      "original": "veltia-comparison-desktop.png",
+      "refreshed": "veltia-comparison-desktop.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c742238cd5777d6d2bbc802f1742d342633e31abde2f6631708f5f34e1ea9c39",
+      "refreshed_sha256": "84654b22d1a39aec2da2f3bf7c2c02a3e7dc6056ebbf408d442708cf35d9a2c4",
+      "bytes": 1352024,
+      "brief": "The symptom-cycle comparison graphic for desktop: preserve the left crossed-out cycle of creams/wipes/cushions and the right Veltia Labs bottle, with the same wording and conclusion. Refresh the illustrations, spacing, pedestal and warm beige background slightly."
+    },
+    {
+      "original": "pdp-07.png",
+      "refreshed": "pdp-07.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "9bf3eb9537e374b02a444011a9341d4786cd00618054bcc87e40086bf5280809",
+      "refreshed_sha256": "69fcc5a84e168703c1dc71e2069f925ee33d15738d51e370b2c7c8abc80c7112",
+      "bytes": 1537702,
+      "brief": "150-day/12-month guarantee promotional image: same existing text, amount/duration details and guarantee promise. Refresh the seal linework, botanical arrangement and bottle lighting slightly. Keep the brand and product label exact."
+    },
+    {
+      "original": "pdp-06.png",
+      "refreshed": "pdp-06.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1200,
+        1200
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "f96c67c6aa353d7ee90e7192b8d6a96d7475e387c8a5bee759b698f8e8dfaeb0",
+      "refreshed_sha256": "2d1ed1b722079427978f66689d82b3e6fb11a37840eb01b3771d151ee6748589",
+      "bytes": 1522922,
+      "brief": "Scientific cushion cutaway mechanism infographic: same labeled numbered explanation and anatomical relationships, with slightly revised illustration perspective, arrows, soft tan backgrounds and graphic spacing. Preserve every word and number exactly."
+    },
+    {
+      "original": "pdp-08.png",
+      "refreshed": "pdp-08.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "0d0ca01518233dea4edc83c471a1ad8bb3e191a80c083edd24f0cadf085ee158",
+      "refreshed_sha256": "9d9a9970e1024ebf7e279307e27b435bb711eb501123e3ffa449791c32a6f785",
+      "bytes": 1349134,
+      "brief": "Side-by-side product comparison chart: retain the same two columns, competitor identities, Veltia Labs labeling, every claim and all durations. Slightly rearrange the product props, cream/brown cell treatments and spacing. Do not add new comparative claims."
+    },
+    {
+      "original": "pdp-20.jpg",
+      "refreshed": "pdp-20.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        800,
+        600
+      ],
+      "refreshed_size": [
+        1448,
+        1086
+      ],
+      "original_sha256": "4b00d54f13fa6010ead3e9578d71e2511b100e0f71f7fbc06f87b0756b48c5f2",
+      "refreshed_sha256": "2c945bd802f89d67d2bc08c657c1140cbe8adc7e210582e94d4cc00af843ae62",
+      "bytes": 631120,
+      "brief": "Existing golfers seen from a distance: retain the same people, count, activity and natural park setting. Slightly change the crop, warmth of sunlight, trees and grass details. No invented people or results."
+    },
+    {
+      "original": "pdp-12.png",
+      "refreshed": "pdp-12.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "51e6deb680c7e1bd02ab6c712bca88255690446133a82120ed97d2d0a6719b9b",
+      "refreshed_sha256": "9c206823876799630603f50fe946da5c6773080a6b7003aaaad901f672255a86",
+      "bytes": 291408,
+      "brief": "Round customer portrait with bottle: retain the same man, identity, facial features, age, smile and product. Slightly refresh ambient light, background room details and crop. Maintain the circular transparent cutout. Do not change apparent health or outcomes."
+    },
+    {
+      "original": "pdp-09.png",
+      "refreshed": "pdp-09.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1254,
+        1254
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "646cbbb56978e59b2f07311a2667f77659710aba3168496d92aba83b67b8779d",
+      "refreshed_sha256": "e1ed0b65eb2668e5f2ffc12cdccc86d170704e9b86db125b305456923e7f664f",
+      "bytes": 1490734,
+      "brief": "Supplement facts panel with bottle: this is a precision layout refresh only. Preserve every text character and all doses exactly: psyllium 330 mg, horse chestnut 279 mg, chicory 200 mg, cocoa 120 mg, Butchers Broom 46.5 mg; 2 capsules per daily dose, 30 servings, 60 capsules, net 35 g (1.25 oz), directions and other ingredients unchanged. Slightly refresh background, bottle perspective and rule styling. No changes to any ingredient or usage amount."
+    },
+    {
+      "original": "pdp-21.jpg",
+      "refreshed": "pdp-21.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        800,
+        600
+      ],
+      "refreshed_size": [
+        1448,
+        1086
+      ],
+      "original_sha256": "b58357356218d8807c15f8677f17d42b16d2317f2935c1cf827ebd31a170d45d",
+      "refreshed_sha256": "bc8bfeae0b0c32edd993e955461c70e7a1c0acf5683306b5f7116342c2b35e5c",
+      "bytes": 243652,
+      "brief": "Existing couple by the water at sunset: preserve both identities, faces, ages and pose. Slightly refresh sky colors, lighting and background details; retain the same genuine casual snapshot atmosphere."
+    },
+    {
+      "original": "pdp-11.png",
+      "refreshed": "pdp-11.webp",
+      "encoding": "lossless",
+      "original_size": [
+        2170,
+        520
+      ],
+      "refreshed_size": [
+        2171,
+        724
+      ],
+      "original_sha256": "8c9375471b4d5ac5b79606d54287371698fa7c6a63340d675ad635f188b6ef4f",
+      "refreshed_sha256": "41d105d49ab927ade17c1273495051b4ac153e5eebab71fa2c8858514b763bbd",
+      "bytes": 800258,
+      "brief": "Wide clinician-choice informational banner: preserve the original 212-clinician statement, all wording, existing small portraits and their identities. Subtly redraw the laurel/frame and adjust neutral layout spacing. Maintain the same very wide horizontal strip composition."
+    },
+    {
+      "original": "pdp-24.jpg",
+      "refreshed": "pdp-24.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        800,
+        600
+      ],
+      "refreshed_size": [
+        1448,
+        1086
+      ],
+      "original_sha256": "76a6d02601c94bc226540823b1f35fb295041831d48e60b5e4a135640e68ad3b",
+      "refreshed_sha256": "65fe67e7696488517c372db15c01ee08087259bf5ea071c1a227552fcca53a13",
+      "bytes": 254074,
+      "brief": "Existing father and son in a garage: preserve both identities, faces, ages and pose. Slightly refresh crop, warm lighting and workshop background details. Keep the casual photo concept."
+    },
+    {
+      "original": "pdp-22.png",
+      "refreshed": "pdp-22.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1448,
+        1086
+      ],
+      "refreshed_size": [
+        1448,
+        1086
+      ],
+      "original_sha256": "00bcf53fcd65f5afba7ac1ec3928b34f6d62dba941e989898171d9dc9c6956d5",
+      "refreshed_sha256": "8d5ed646a0a02c7e7131b6c05e478773461a954bbcea4017f1c31eee80aa0208",
+      "bytes": 147860,
+      "brief": "Existing older man holding bottle: preserve his face, identity, age, expression and product. Subtly change crop, natural room light and neutral background details. Same person and product; no new outcome or testimonial content."
+    },
+    {
+      "original": "pdp-26.png",
+      "refreshed": "pdp-26.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b91e6f61791ad78b06a7407c375d5794e9b32d0c9a46b496529a08e1f0548166",
+      "refreshed_sha256": "6ae392b2df323f582b661e3af583f3867e46cf1cc409f2ea9ce6a4311278f0c2",
+      "bytes": 239296,
+      "brief": "Existing woman awake in bed: preserve the same person and facial features, age and pose. Refresh only dim warm room light, bedding texture, framing and background details. Keep the bedtime worry concept, no added symptoms."
+    },
+    {
+      "original": "pdp-25.jpg",
+      "refreshed": "pdp-25.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "39ef34560c3539cf43c46f8d5f11c2caa650921a191f6dba829a476618f99a9c",
+      "refreshed_sha256": "9cfe2e94ea0bf967509743829482d98638f2fa30a6a1331f440c39bd36efc468",
+      "bytes": 174798,
+      "brief": "Existing man shifting uncomfortably in an upholstered chair: preserve the same person, age, body, expression and seated action. Slightly refresh chair fabric tone, side-table props, window light and framing. Same discomfort concept without exaggerated symptoms."
+    },
+    {
+      "original": "pdp-14.png",
+      "refreshed": "pdp-14.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1024,
+        1535
+      ],
+      "refreshed_size": [
+        1024,
+        1535
+      ],
+      "original_sha256": "19ff1eeab778bbc06a9f889c268a18218d1c69e98568c365fd745995b05d43f3",
+      "refreshed_sha256": "4ff3e92501e43d0d1439adbed2ab5dfba1fbbe79c8e90573082fabb6d0b6e8b3",
+      "bytes": 1186394,
+      "brief": "Freedom Protocol ebook cover mockup: preserve exactly Veltia Labs, title, 96-page description, all other wording and icons. Slightly refresh the warm ivory cover texture, book angle, gold/tan rule work and icon spacing. Keep a transparent background and the same cover proportions."
+    },
+    {
+      "original": "pdp-27.png",
+      "refreshed": "pdp-27.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "39713ce647f2030cec8215b5bf24caed5735f572a58deece16ea697ba2b3bebc",
+      "refreshed_sha256": "f53f8dc37d7ab5dde00dba5bc4bdaed961a12060a1a2959ec96b59e61f5763b8",
+      "bytes": 399304,
+      "brief": "Travel bag with a discreet donut cushion: recreate the same idea with a modestly different luggage angle, towel fabric and cushion color in muted navy/cream. No text or extra props; retain discretion and travel context."
+    },
+    {
+      "original": "pdp-28.png",
+      "refreshed": "pdp-28.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6b4133367d22710aaa09675f5ce17ce832d0b61c9b67f5be91dee31994e7a335",
+      "refreshed_sha256": "d9f99c343b84ec20b79fbfc2a9476e41ba84efc9fa89fb660e47f5944c936012",
+      "bytes": 264436,
+      "brief": "Existing man concerned while reading phone at a table: preserve identity, age, facial features and pose. Subtly adjust warm indoor lighting, tabletop props, framing and background texture. Same concern concept, no added medical details."
+    },
+    {
+      "original": "pdp-23.jpg",
+      "refreshed": "pdp-23.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        800,
+        600
+      ],
+      "refreshed_size": [
+        1448,
+        1086
+      ],
+      "original_sha256": "55d726c644795bf35033b6cc4f5177d40cac9c65aa7e12915830b509071b4667",
+      "refreshed_sha256": "107a13205a46f57c300e2249b869afd16286927795a371aee85bef210845040e",
+      "bytes": 220864,
+      "brief": "Existing woman at a triathlon swim: preserve her identity, facial features, age, pose and event context. Slightly refresh light, water color and non-identifying background details. Do not change fitness, body shape, results or achievements."
+    },
+    {
+      "original": "pdp-32.png",
+      "refreshed": "pdp-32.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1536,
+        1024
+      ],
+      "refreshed_size": [
+        1536,
+        1024
+      ],
+      "original_sha256": "e8aa37ecf0c06b6208185b523487e8f8cdaacbf11eeedad346835ff6ec7694b1",
+      "refreshed_sha256": "f7a916286332a67d85034e0324d95161e14ebd355726dd61010d355f02f92c64",
+      "bytes": 1730204,
+      "brief": "Age-30 versus age-55+ collagen comparison: retain the exact age markers, labels, anatomical meaning and severity. Slightly change illustration texture, perspective, arrow style and cream background. Do not alter values or clinical meaning."
+    },
+    {
+      "original": "pdp-29.png",
+      "refreshed": "pdp-29.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1000,
+        1000
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "a2c0a6c888eba42f85043c9075b92677991c875117d493df16ac0be914f9cae8",
+      "refreshed_sha256": "53fd58c703a758892ea6009a492bdc96b11e7a33293c5689ab265a8f305ba9c1",
+      "bytes": 229116,
+      "brief": "Existing over-the-shoulder phone-conversation photo: preserve the same person and action, existing message content and device concept. Slightly refresh framing, natural light and room details. Do not invent or change the conversation."
+    },
+    {
+      "original": "pdp-33.png",
+      "refreshed": "pdp-33.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1388,
+        1133
+      ],
+      "refreshed_size": [
+        1387,
+        1134
+      ],
+      "original_sha256": "7b7618b6ac1ed8ff63ed400be3e9ce8803c361c7c99e3b53d668b5bf67ba6652",
+      "refreshed_sha256": "2dcd276ad17dc2f3bb6f13784c50fbb02eca6cb069a359063b7eeea761251e82",
+      "bytes": 181052,
+      "brief": "Existing relief-products photo with a red X: subtly rearrange the same cream, wipes and bath products on a neutral surface, change grayscale lighting and X brushstroke slightly. Preserve product identities and the existing crossed-out comparison message, no new claims."
+    },
+    {
+      "original": "pdp-30.jpg",
+      "refreshed": "pdp-30.webp",
+      "encoding": "lossless",
+      "original_size": [
+        2978,
+        2156
+      ],
+      "refreshed_size": [
+        1474,
+        1067
+      ],
+      "original_sha256": "24362480d9accd26d85607ccfedf1d11a31d86c8ce4b711c367a3646f1a93bab",
+      "refreshed_sha256": "4cf4ad2f2b6638bd798b65e3b236df565a05e7bbb781fe48bce4b7ec90c5b643",
+      "bytes": 927134,
+      "brief": "Scientific graph about age and rectal collagen: retain the exact title, labels, age markers, graph direction and every statistic/citation. Redraw the simple cushion icons and graph styling slightly with warm ivory, sage and brown. No change to values or trends."
+    },
+    {
+      "original": "pdp-37.jpg",
+      "refreshed": "pdp-37.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        530,
+        530
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "54ac3f2d19d09d90a8d4ec9def37c8af26988fb568575d1cf1dbf9b71132e002",
+      "refreshed_sha256": "a95cc648e8ce98ed79bc329be5cd6827cbeca61cbfdd4e8cd123595d595038d8",
+      "bytes": 490692,
+      "brief": "Cacao ingredient still life: make a fresh but closely related arrangement of the same dark cacao beans and small dark-chocolate pieces; alter camera angle and warm natural light. Rich brown palette, realistic food photography, no added text."
+    },
+    {
+      "original": "pdp-35.png",
+      "refreshed": "pdp-35.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1402,
+        1122
+      ],
+      "refreshed_size": [
+        1402,
+        1122
+      ],
+      "original_sha256": "914f003593f7b749ab2631a87bcbb551d0f29ba628caaab782699580c639c67a",
+      "refreshed_sha256": "5b7152ca16a9af124d2ed52e087d69626693d2f916f67870f44b9d583b4faa04",
+      "bytes": 170742,
+      "brief": "Existing competitor-supplement grouping crossed out with a red X: same products and identifiable labels, slightly refreshed arrangement, grayscale light, neutral background and X stroke. Do not invent competitors, labels or comparative claims."
+    },
+    {
+      "original": "pdp-38.png",
+      "refreshed": "pdp-38.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        400,
+        400
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "dad7b99dfe1bd93187c88129af278d248f660fc7d21802349336f3986a0d4c5b",
+      "refreshed_sha256": "4ece2a08ae03b000d75ce9e2d63c570803031dabd75ce20cb65bfe52ce636519",
+      "bytes": 243150,
+      "brief": "Horse-chestnut ingredient botanical macro: same recognizable horse chestnut fruit, seed and spiky husk, with a fresh angle, small leaf arrangement changes and warm natural light. No substitution with another plant."
+    },
+    {
+      "original": "pdp-31.png",
+      "refreshed": "pdp-31.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1535,
+        1024
+      ],
+      "refreshed_size": [
+        1536,
+        1024
+      ],
+      "original_sha256": "3fba2ead2423d01ae02b671f2cbb7bf93138c18d05733744ba0606caf0448ce4",
+      "refreshed_sha256": "7ec2ec700c888c7750c134a5681ed543cdc901ec380e13fb0d70597cffc9049f",
+      "bytes": 1701490,
+      "brief": "Healthy age-30 versus age-40 collagen-cushion comparison: retain exact age markers, labels and anatomical meaning. Slightly change the illustration texture, perspective, arrow style and cream background. No change in findings or severity."
+    },
+    {
+      "original": "pdp-39.png",
+      "refreshed": "pdp-39.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        400,
+        400
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "94ff829740779643dafc282cc00e3907439239976277a5f53a763304f3369e8d",
+      "refreshed_sha256": "9c9c2ef4ef26aed45b3ea0bbef7972fc0e4d3edb2792ef7ede4e5286017326bb",
+      "bytes": 241742,
+      "brief": "Butchers broom botanical photo: same correct plant with flat green cladodes and red berries, with a slightly different framing, berry/leaf arrangement and soft natural sunlight. No other plant species."
+    },
+    {
+      "original": "pdp-36.png",
+      "refreshed": "pdp-36.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1400,
+        1123
+      ],
+      "refreshed_size": [
+        1401,
+        1123
+      ],
+      "original_sha256": "53868fcd7980d00013dd1938897685ec88d0b1396ff597c301bae4dc664d7b7d",
+      "refreshed_sha256": "48c8cc62e01a194acc2c4f72f2dad43eea3726f43be3a44af3f61138029c3d81",
+      "bytes": 239976,
+      "brief": "Existing fiber products and bowl crossed out with a red X: preserve recognizable products and the same message, with slightly changed crop, bowl placement, grayscale light and red stroke. No new claims."
+    },
+    {
+      "original": "pdp-40.png",
+      "refreshed": "pdp-40.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        400,
+        400
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "ba9cff42a0fe05fc3011ebb1dd78a049756667edf10d3a57c47080e361b5911d",
+      "refreshed_sha256": "2e01404615fc5265df0ee994fccc5fcdbc3f416ebcfb6c76198c899e11bcac2d",
+      "bytes": 142910,
+      "brief": "Psyllium botanical macro: preserve correct psyllium seed heads on fine stems; modestly change angle, depth of field and soft green background. Natural, credible botanical photography."
+    },
+    {
+      "original": "pdp-41.png",
+      "refreshed": "pdp-41.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        400,
+        400
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "5b162cd3b8373e720c0349c9654283b96b899e2ee63133810f81fd14a4ad5779",
+      "refreshed_sha256": "581a4c3dcfb389a9ec3f51d91de7dfbcd0bfd2fa537013ba778ae05e3c8f0134",
+      "bytes": 559654,
+      "brief": "Chicory root botanical still life: same chicory roots with green leaves and blue flowers, subtly rearranged on a dark natural backdrop with warmer side light. Do not substitute another plant."
+    },
+    {
+      "original": "pdp-47.png",
+      "refreshed": "pdp-47.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        941,
+        1672
+      ],
+      "refreshed_size": [
+        941,
+        1672
+      ],
+      "original_sha256": "e35797a2b19aed01ff379a5e779aec3c6f62629c1f855fa6faa71a58a017eda1",
+      "refreshed_sha256": "894a83f6da746c072f2d084fd18cc684d5af855171002740559c9fb35b307e5c",
+      "bytes": 249104,
+      "brief": "Existing testimonial video poster with older woman and bottle: preserve her exact identity, facial features, age, pose, bottle and subtitle. Only subtly refresh ambient light/color grading, framing and neutral room details. Keep video continuity; no new words or outcomes."
+    },
+    {
+      "original": "pdp-42.png",
+      "refreshed": "pdp-42.webp",
+      "encoding": "lossless",
+      "original_size": [
+        673,
+        296
+      ],
+      "refreshed_size": [
+        1891,
+        832
+      ],
+      "original_sha256": "f964268722161ef642130c4afac776414f3714ca9e9f6d354713d90c2ef1cd9b",
+      "refreshed_sha256": "aaa7379c446bd4eee63d4072f6ac78f364d0e1175a42ea5a2231050e1d268b26",
+      "bytes": 1298166,
+      "brief": "Cacao-processing explanation strip: retain all exact wording and the three-step natural cacao \u2192 alkali processing \u2192 dark powder sequence with the same arrows and conclusion. Slightly refresh the bean/powder piles, machinery illustration, type spacing and warm neutral styling. Keep the very wide layout."
+    },
+    {
+      "original": "pdp-49.png",
+      "refreshed": "pdp-49.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        941,
+        1672
+      ],
+      "refreshed_size": [
+        941,
+        1672
+      ],
+      "original_sha256": "5697042dd71e2c6566ed224e26e381cd057a61c146dc2fec3c34d0e3ad4d7ede",
+      "refreshed_sha256": "d36d95d09af7fb2e8b30407ded1e600f7838a8d9441d21e4ebca850c6a6966dc",
+      "bytes": 194490,
+      "brief": "Existing testimonial video poster with older man and bottle: preserve his exact identity, face, age, pose, bottle and subtitle. Only subtly refresh ambient light/color grading, framing and neutral room details. Keep video continuity; no new words or outcomes."
+    },
+    {
+      "original": "pdp-51.png",
+      "refreshed": "pdp-51.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        941,
+        1672
+      ],
+      "refreshed_size": [
+        941,
+        1672
+      ],
+      "original_sha256": "036913ecb7d0fb75672b67789a56953151d47494c9d7dff7a0aece5e3f17ccd4",
+      "refreshed_sha256": "c9048dc7618ec73f646f4c05198d8034d3e4a2fe11a7c1e24ee67800cfdbbea3",
+      "bytes": 180306,
+      "brief": "Existing testimonial video poster with woman in glasses and bottle: preserve her exact identity, face, age, pose, bottle and subtitle. Only subtly refresh ambient light/color grading, framing and kitchen details. Keep video continuity; no new words or outcomes."
+    },
+    {
+      "original": "pdp-53.png",
+      "refreshed": "pdp-53.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1093,
+        1093
+      ],
+      "refreshed_size": [
+        1254,
+        1254
+      ],
+      "original_sha256": "15f7d1af33fa5a0e39e0e1a7f5803255bdac1695754a76f7148788b1c4364543",
+      "refreshed_sha256": "3e83046227f0db70224a1fec23ef5ab9fee2bd2ea1207ac3f86a1fb27dd724f9",
+      "bytes": 869776,
+      "brief": "12 Month Freedom Guarantee shield: preserve exactly all wording and the number 12. Subtly refresh the gold bevels, tan highlights, outer border and inner linework. Same shield silhouette and reassuring premium tone; transparent surrounding background."
+    },
+    {
+      "original": "pdp-44.png",
+      "refreshed": "pdp-44.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        1334,
+        1135
+      ],
+      "refreshed_size": [
+        1360,
+        1157
+      ],
+      "original_sha256": "557f73b09fa4db5a16e9af56f66ecef6babd802e27872be86a590d2600a250fa",
+      "refreshed_sha256": "2acd94d84b3d1d86e108e12353a62c7256ff83868ce84ddb95a821437c39148c",
+      "bytes": 387530,
+      "brief": "Existing named expert/doctor portrait: preserve the same mans identity, face, age, smile, white coat and role exactly. Only subtly refresh neutral background, botanical/sage accent shape, framing and light. Do not create a new person, credentials, endorsement or badge."
+    },
+    {
+      "original": "pdp-45.jpg",
+      "refreshed": "pdp-45.webp",
+      "encoding": "quality-93",
+      "original_size": [
+        720,
+        1280
+      ],
+      "refreshed_size": [
+        941,
+        1672
+      ],
+      "original_sha256": "80dd4858a04f4b969f98a6b1584263914e7e081023152716a16404e390711b2e",
+      "refreshed_sha256": "c21eae5296a2e45ec44d629aef3b95bb98a7f3c3a604e014c6c389eb72fea3e5",
+      "bytes": 276268,
+      "brief": "Existing truck-driver testimonial video poster: preserve the same man, face, identity, age, pose and cab setting. Refresh lighting/color grading and crop very slightly. Keep continuity with the unchanged original video; no new person or subtitles."
+    },
+    {
+      "original": "pdp-54.png",
+      "refreshed": "pdp-54.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1536,
+        1024
+      ],
+      "refreshed_size": [
+        1536,
+        1024
+      ],
+      "original_sha256": "8ab43b88a2fc1b9016ed2c3136db73a8d7156cfd3d77491f29e2e57c2626eca9",
+      "refreshed_sha256": "9f5c90c18ca94d5a52ee30f1a9d5b24f3431ec4924ac4af290608bfdf723ab23",
+      "bytes": 1035252,
+      "brief": "Bottle plus 91-percent result graphic: preserve 91%, all wording, product identity and conclusion exactly. Slightly refresh the circular chart stroke, bottle angle/lighting and soft cream background. No new statistic, finding or promise."
+    },
+    {
+      "original": "pdp-56.png",
+      "refreshed": "pdp-56.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1536,
+        1024
+      ],
+      "refreshed_size": [
+        1536,
+        1024
+      ],
+      "original_sha256": "84f2ca2477ea7d0ddad4fe762f46034c76c30ee464685d5a4aea5d65a79e6592",
+      "refreshed_sha256": "9b7eda81008ab99ed288dc5d1cf046369bab0b0fd515f59835e8ffc2020698c7",
+      "bytes": 1127704,
+      "brief": "Six-card existing review collage: preserve all names, profile identities, dates, star ratings, exact quotes, icons and every word. Refresh card outlines, subtle ivory background, spacing and gentle accent colors only. Do not fabricate or rewrite testimonials."
+    },
+    {
+      "original": "pdp-55.png",
+      "refreshed": "pdp-55.webp",
+      "encoding": "lossless",
+      "original_size": [
+        1536,
+        1024
+      ],
+      "refreshed_size": [
+        1536,
+        1024
+      ],
+      "original_sha256": "284f8f2bea92f678a1a420c39e46a6a7ea39bbef8739df5a46e8bd6efc8975c7",
+      "refreshed_sha256": "64fa5b1aa1556b3c18bc282b1669803c524b103244b2aab9234a038e8d0e5608",
+      "bytes": 1052616,
+      "brief": "Two-statistic result panel: preserve exactly 87% and 91%, every supporting word, duration and disclaimer. Slightly refresh typography spacing, green/brown underline treatments and warm ivory texture. No new data."
+    }
+  ]
+}

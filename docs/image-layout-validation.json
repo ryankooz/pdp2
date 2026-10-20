@@ -1,0 +1,44 @@
+[
+  {
+    "width": 390,
+    "pathname": "/",
+    "height_before": 4615,
+    "height_after": 4615,
+    "section_geometry_unchanged": true
+  },
+  {
+    "width": 390,
+    "pathname": "/products/collagen-cushion-support-capsules",
+    "height_before": 23976,
+    "height_after": 23976,
+    "section_geometry_unchanged": true
+  },
+  {
+    "width": 768,
+    "pathname": "/",
+    "height_before": 3438,
+    "height_after": 3438,
+    "section_geometry_unchanged": true
+  },
+  {
+    "width": 768,
+    "pathname": "/products/collagen-cushion-support-capsules",
+    "height_before": 18685,
+    "height_after": 18685,
+    "section_geometry_unchanged": true
+  },
+  {
+    "width": 1440,
+    "pathname": "/",
+    "height_before": 3423,
+    "height_after": 3423,
+    "section_geometry_unchanged": true
+  },
+  {
+    "width": 1440,
+    "pathname": "/products/collagen-cushion-support-capsules",
+    "height_before": 15782,
+    "height_after": 15782,
+    "section_geometry_unchanged": true
+  }
+]

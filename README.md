@@ -1,6 +1,6 @@
 # Veltia Labs
 
-[Download the Shopify theme ZIP](downloads/veltia-labs-shopify.zip) · [Product desktop preview](docs/product-1440-top.png) · [Product mobile preview](docs/product-390.png) · [Homepage preview](docs/veltia-1440.png)
+[View all refreshed images](docs/image-refresh-overview.jpg) · [Download the Shopify theme ZIP](downloads/veltia-labs-shopify.zip) · [Product desktop preview](docs/product-1440-top.png) · [Product mobile preview](docs/product-390.png) · [Homepage preview](docs/veltia-1440.png)
 
 On GitHub, open the ZIP link and choose **Download raw file**.
 
@@ -39,7 +39,7 @@ The theme does not copy catalog/customer records or automatically configure disc
 
 ## Assets and content
 
-Bottle labels, branded promotional graphics, the ebook cover, customer photos, and video poster images are rebranded to Veltia Labs. These are image edits rather than pixel-identical originals. Unbranded imagery is preserved. The ebook cover's page count was aligned with the page's 96-page description.
+Both pages now include 49 freshly remade image variations, replacing 51 source assets (two responsive pairs share artwork). Product graphics, lifestyle and customer imagery, ingredient illustrations, scientific diagrams, the ebook cover, video posters, and guarantee artwork retain their original purpose with subtle visual changes. Existing customer identities and the numerical information are preserved. Ten brand, publication, and interface marks remain unchanged. Images use optimized WebP files; text-heavy artwork is lossless. See [the image inventory](docs/image-refresh.json) for coverage and file hashes.
 
 The four original testimonial videos are retained and streamed from the existing Shopify CDN. Their footage/audio was not edited and can still contain the original branding. The old store's analytics, tracking, app configuration, and app credentials are excluded. The recreated offer interface uses native Shopify products rather than requiring the original bundle app.
 
