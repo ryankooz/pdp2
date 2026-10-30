@@ -1,17 +1,15 @@
-# Veltia Labs — nine ad creatives
+# Veltia Labs — nine revised ad creatives
 
-Portrait 4:5 PNG images. IDs match the supplied creative brief. These are creative drafts, not published ads.
+Revised to the supplied 1A–3C brief. The six bottle creatives use brown cacao-pod, bean and leaf line art with the subtitle **Cacao-Powered Support**. These are creative image files; no ads have been published.
 
-The concepts use the supplied reference layouts with Veltia Labs packaging. Unverified doctor warnings, medical guarantees, and a closing-offer deadline were replaced with informational wording. The whiteboard uses a collagen question rather than a “killer protein” claim. No named expert or customer endorsement is represented.
-
-| ID | Concept | Download |
+| ID | Concept | Image |
 | --- | --- | --- |
-| 1A | five bottle offer | [PNG](1A-five-bottle-offer.png) |
-| 1B | third flare | [PNG](1B-third-flare.png) |
-| 1C | before you buy | [PNG](1C-before-you-buy.png) |
-| 2A | orange label check | [PNG](2A-orange-label-check.png) |
-| 2B | scam or substance | [PNG](2B-scam-or-substance.png) |
-| 2C | grapes and tape | [PNG](2C-grapes-and-tape.png) |
-| 3A | collagen whiteboard | [PNG](3A-collagen-whiteboard.png) |
-| 3B | two am sketch | [PNG](3B-two-am-sketch.png) |
-| 3C | orange statement | [PNG](3C-orange-statement.png) |
+| 1A | Five-bottle offer | [PNG](1A-five-bottle-offer.png) |
+| 1B | Third flare | [PNG](1B-third-flare.png) |
+| 1C | Final Notice | [PNG](1C-before-you-buy.png) |
+| 2A | Doctors Warning | [PNG](2A-orange-label-check.png) |
+| 2B | Scam Exposed | [PNG](2B-scam-or-substance.png) |
+| 2C | Grapes and tape measure — no overlay | [PNG](2C-grapes-and-tape.png) |
+| 3A | Whiteboard — unfinished protein sentence | [PNG](3A-collagen-whiteboard.png) |
+| 3B | 2 a.m. sketch — no branding or product | [PNG](3B-two-am-sketch.png) |
+| 3C | Orange statement | [PNG](3C-orange-statement.png) |
